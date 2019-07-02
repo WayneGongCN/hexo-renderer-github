@@ -1,0 +1,22 @@
+{
+  "name": "hexo-renderer-github",
+  "version": "1.0.0",
+  "description": "Hexo renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zowiegong/hexo-renderer-github.git"
+  },
+  "author": "zowiegong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zowiegong/hexo-renderer-github/issues"
+  },
+  "homepage": "https://github.com/zowiegong/hexo-renderer-github#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
