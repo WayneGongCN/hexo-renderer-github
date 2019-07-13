@@ -1,8 +1,13 @@
 {
   "name": "hexo-renderer-github",
-  "version": "1.0.1",
-  "description": "Hexo renderer",
+  "version": "1.0.2",
+  "description": "Hexo renderer. 通过 GitHub API 渲染 Markdown",
   "main": "index.js",
+  "keywords": [
+    "hexo-renderer",
+    "github api",
+    "markdown renderer"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
